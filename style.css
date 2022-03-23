@@ -1,6 +1,6 @@
 h1 {
   text-align: center;
-  background-color: rgb(187, 109, 20);
+  background-color: cadetblue;
   padding: 20%;
   border-radius: 30%;
 
@@ -9,7 +9,7 @@ h2{
   text-align: justify;
   font-family: monospace;
   font-size: 5em;
-  background-color: rgb(123, 153, 17);
+  background-color: blue;
   font-family: sans-serif
 
 }
@@ -17,14 +17,14 @@ h3{
   text-align: center;
   font-family: monospace;
   font-size: 10em;
-  background-color: rgb(255, 0, 200);
+  background-color: blue;
   font-family: sans-serif;
 }
 
 section {
   background-color: #61c6fc;
   width: 20%;
-  height: 30%;
+  height: 40%;
   margin: 0 auto;
   border: 5px solid #0ab10a;
   display: flex;
